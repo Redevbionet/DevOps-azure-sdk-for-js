@@ -40,7 +40,7 @@
     "@vitest/coverage-istanbul": "^3.0.9",
     "playwright": "^1.50.0",
     "typescript": "~5.8.2",
-    "vitest": "^3.0.9"
+    "vitest": "^5.0.3"
   },
   "homepage": "https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/datalake-analytics/arm-datalake-analytics",
   "repository": "github:Azure/azure-sdk-for-js",
