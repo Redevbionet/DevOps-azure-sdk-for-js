@@ -89,7 +89,7 @@
     "dotenv": "^16.0.0",
     "eslint": "^9.9.0",
     "typescript": "~5.8.2",
-    "vitest": "^3.0.9"
+    "vitest": "^5.0.4"
   },
   "type": "module",
   "tshy": {
