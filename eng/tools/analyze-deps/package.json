@@ -10,9 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "argparse": "^2.0.1",
-    "handlebars": "^4.7.8",
+    "handlebars": "^4.7.10",
     "jju": "^1.4.0",
-    "js-yaml": "^4.0.0",
+    "js-yaml": "^4.3.2",
     "semver": "^7.5.4",
     "tar": "^6.2.1"
   }
